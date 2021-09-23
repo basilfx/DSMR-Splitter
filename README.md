@@ -3,7 +3,7 @@ Active port expander for the P1 port on a Dutch Smart Meter (DSMR).
 
 ## Introduction
 This is an active port expander for DSMR 5.0. Contrary to simple splitting
-cables, this exapander buffers telegrams, and provides a dedicated port to
+cables, this expander buffers telegrams, and provides a dedicated port to
 connected devices.
 
 [<img src="pcb/Pictures/TopView.png" width="256" alt="3D render of the case.">](pcb/Pictures/TopView.png)
