@@ -43,6 +43,7 @@ externally.
 * The `firmware/` folder contains the RIOT-OS firmware used for the
   microcontroller.
 * The `pcb/` folder contains the Kicad schema and board design.
+* The `tools/` folder contains additional tools, such as a DSMR simulator.
 
 ## License
 The work in this repository is covered by CC BY-NC-SA 4.0. See the `LICENSE.md`
