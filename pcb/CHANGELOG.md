@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.1.0
+Released 02 October 2022
+
+Highlights:
+* Changed: migrated schema + PCB to KiCad 6.0.
+* Improved: 3D models.
+* Fixed: several ERC and DRC errors.
+
 ## v2.0.0
 Released 14 March 2022
 
