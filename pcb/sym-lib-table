@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name silabs2)(type Legacy)(uri ${KIPRJMOD}/Library/silabs2.lib)(options "")(descr ""))
-  (lib (name 74xx_nohidden)(type Legacy)(uri ${KIPRJMOD}/Library/74xx_nohidden.lib)(options "")(descr ""))
-  (lib (name voh1016)(type Legacy)(uri ${KIPRJMOD}/Library/VOH1016AG-V.lib)(options "")(descr ""))
+  (lib (name "silabs")(type "KiCad")(uri "${KIPRJMOD}/Library/silabs.kicad_sym")(options "")(descr ""))
+  (lib (name "74xx_nohidden")(type "KiCad")(uri "${KIPRJMOD}/Library/74xx_nohidden.kicad_sym")(options "")(descr ""))
+  (lib (name "voh1016")(type "KiCad")(uri "${KIPRJMOD}/Library/VOH1016AG-V.kicad_sym")(options "")(descr ""))
 )
